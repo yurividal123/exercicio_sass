@@ -1,0 +1,11 @@
+@use 'config/cores.scss';
+@use './section.header/header.scss';
+@use './config/reset.scss';
+@use './responsivo/respon.scss';
+@use './section.produtos/produtos.scss';
+
+
+body {
+    background-color: cores.$corSecundaria;
+}
+
